@@ -1,4 +1,4 @@
-import streamlit, pandas, matplotlib.pyplot
+import streamlit, pandas
 
 # To run file, paste into terminal: streamlit run Streamlit_1.py
 
